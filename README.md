@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/fin_banner.png" alt="Finaitic Banner" width="100%" />
+</p>
+
 # Finaitic – Your AI-powered Financial Assistant
 
 **Finaitic** is a GenAI-powered mobile app designed to simplify investment decisions and boost financial literacy. By combining artificial intelligence with modern financial data, Finaitic helps users understand complex terms, compare investment options, and make confident financial choices—all from their smartphones.
@@ -90,8 +94,13 @@ The assistant is always available in a draggable bottom sheet to help users navi
 | **Languages**  | English + 8 Indian languages *(Coming Soon)*                  |
 
 ---
+## App Wireframe
 
+<p align="center">
+  <img src="assets/images/app_wireframe.png" alt="App Wireframe" width="80%" />
+</p>
 
+---
 ## Team
 
 - Ninad  
